@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">YogArts</string>
+    <string name="autolinktext">Via Quintino Cataudella 8, 95123 Catania CT</string>
+    <string name="school_description">Scuola di Yoga e Arti Varie</string>
+    <string name="phone_numbers">3924676955 3383212852</string>
+    <string name="email">yogarts.viniyoga@gmail.com</string>
+    <string name="fb_page">www.facebook.com/yogarts</string>
+    <string name="website_address">yogarts-viniyoga.jimdo.com</string>
+    <string name="school_maxim">Il luogo del cuore, il cuore dello Yoga</string>
+    <string name="chi_siamo">CHI SIAMO</string>
+    <string name="dove_siamo">DOVE SIAMO</string>
+    <string name="eventi">EVENTI</string>
+    <string name="prenota_la_tua_lezione">PRENOTA LA TUA LEZIONE</string>
+</resources>
